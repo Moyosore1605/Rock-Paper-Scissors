@@ -1,0 +1,18 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+}
+main{
+    width: 500px;
+    height:600px;
+    border-radius:10px;
+    flex-direction: column;
+    background-color: rgb(32,32,32);
+}
+.btn{
+    background-color: rgb(170,155,147)!important;
+    font-size:40px;
+    margin-right:5px;
+}
+#showIcon1, #showIcon2{
+    font-size: 70px;
+}
